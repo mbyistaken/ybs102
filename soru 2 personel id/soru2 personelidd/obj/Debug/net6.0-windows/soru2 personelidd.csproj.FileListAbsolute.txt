@@ -1,0 +1,34 @@
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.csproj.AssemblyReference.cache
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2_personelidd.Form1.resources
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.csproj.GenerateResource.cache
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.AssemblyInfoInputs.cache
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.AssemblyInfo.cs
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.csproj.CoreCompileInputs.cache
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.exe
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.deps.json
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.runtimeconfig.json
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.dll
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.pdb
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.dll
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\refint\soru2 personelidd.dll
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.pdb
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.genruntimeconfig.cache
+C:\Users\yildi\source\repos\soru2 personelidd\soru2 personelidd\obj\Debug\net6.0-windows\ref\soru2 personelidd.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.exe
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.deps.json
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.runtimeconfig.json
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\bin\Debug\net6.0-windows\soru2 personelidd.pdb
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2_personelidd.Form1.resources
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.AssemblyInfoInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.AssemblyInfo.cs
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\refint\soru2 personelidd.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.pdb
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\soru2 personelidd.genruntimeconfig.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 2 personel id\soru2 personelidd\obj\Debug\net6.0-windows\ref\soru2 personelidd.dll
