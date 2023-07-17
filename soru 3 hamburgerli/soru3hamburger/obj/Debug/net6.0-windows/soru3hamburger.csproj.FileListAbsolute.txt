@@ -1,0 +1,34 @@
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.exe
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.deps.json
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.runtimeconfig.json
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.dll
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.pdb
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.csproj.AssemblyReference.cache
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.Form1.resources
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.csproj.GenerateResource.cache
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.AssemblyInfoInputs.cache
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.AssemblyInfo.cs
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.csproj.CoreCompileInputs.cache
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.dll
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\refint\soru3hamburger.dll
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.pdb
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.genruntimeconfig.cache
+C:\Users\yildi\source\repos\soru3hamburger\soru3hamburger\obj\Debug\net6.0-windows\ref\soru3hamburger.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.exe
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.deps.json
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.runtimeconfig.json
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\bin\Debug\net6.0-windows\soru3hamburger.pdb
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.Form1.resources
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.AssemblyInfoInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.AssemblyInfo.cs
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\refint\soru3hamburger.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.pdb
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\soru3hamburger.genruntimeconfig.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 3 hamburgerli\soru3hamburger\obj\Debug\net6.0-windows\ref\soru3hamburger.dll
