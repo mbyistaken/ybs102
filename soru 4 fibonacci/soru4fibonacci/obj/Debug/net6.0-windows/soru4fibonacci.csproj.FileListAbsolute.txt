@@ -1,0 +1,34 @@
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.csproj.AssemblyReference.cache
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.Form1.resources
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.csproj.GenerateResource.cache
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.AssemblyInfoInputs.cache
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.AssemblyInfo.cs
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.exe
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.deps.json
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.runtimeconfig.json
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.dll
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.pdb
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.dll
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\refint\soru4fibonacci.dll
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.pdb
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.genruntimeconfig.cache
+C:\Users\yildi\source\repos\soru4fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\ref\soru4fibonacci.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.exe
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.deps.json
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.runtimeconfig.json
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\bin\Debug\net6.0-windows\soru4fibonacci.pdb
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.Form1.resources
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.AssemblyInfoInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.AssemblyInfo.cs
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\refint\soru4fibonacci.dll
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.pdb
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\soru4fibonacci.genruntimeconfig.cache
+C:\Users\yildi\OneDrive\Masaüstü\programlama final\soru 4 fibonacci\soru4fibonacci\obj\Debug\net6.0-windows\ref\soru4fibonacci.dll
